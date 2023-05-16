@@ -1,1 +1,5 @@
-# Angel-Hack-May-Challenge
+# Angel-Hack-Monthly-Challenge
+
+```text
+    ALGORITHMS: CODE PUZZLES!
+```
